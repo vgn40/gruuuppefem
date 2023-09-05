@@ -4,9 +4,22 @@
 
 /* Victor START */
 
+.lillesection{
+    width: 34%;
+    height: 300px;
+    background-color: aquamarine;
+}
+.storsection{
+    width: 66%;
+    height: 300px;
+    background-color: aqua;
+}
 /* Victor END */
 
 /* Christian START */
+.Christian {
+
+}
 
 /* Christian END */
 
