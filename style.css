@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 /* Nicoline START*/
 
 /* Nicoline END */
@@ -8,12 +13,19 @@
     width: 34%;
     height: 300px;
     background-color: aquamarine;
+    display: flex;
+    float: left;
 }
 .storsection{
     width: 66%;
     height: 300px;
     background-color: aqua;
+    display: flex;
+    float: left;
 }
+
+.victortekst {padding: 25px; }
+
 /* Victor END */
 
 /* Christian START */
